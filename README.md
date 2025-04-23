@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m Idil Ezgi Karaaslan with an MSc in Astrophysics & Cosmology from the University of Padova.
+Hi, I’m Idil with an MSc in Astrophysics & Cosmology from the University of Padova.
 
 🔭 **From the Universe to Data**  
 In astrophysics, I learned to model complex systems, analyze noisy data, and uncover hidden patterns—skills I’m eager to apply to real-world problems through data science. Whether studying galaxies or global trends, my goal is the same: to ask the right questions and find meaning in complexity.
