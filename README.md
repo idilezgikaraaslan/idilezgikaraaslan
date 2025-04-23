@@ -12,6 +12,6 @@ I’m also a traveler, musician, and explorer—curious about the world both wit
 I’m currently seeking Data Science roles in Europe. I'm also open to PhD opportunities in astrophysics and cosmology.
 
 📫 **How to reach me:**  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/idilezgi/).
+Feel free to connect via [LinkedIn](www.linkedin.com/in/idil-ezgi-karaaslan-93570b356).
 
 
